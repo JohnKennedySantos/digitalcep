@@ -1,6 +1,7 @@
 <?php 
 
-namespace Developer\DigitalCep;
+namespace JohnKennedySantos\DigitalCep;
+
 
 
 
