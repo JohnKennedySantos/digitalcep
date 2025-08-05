@@ -1,11 +1,11 @@
 {
-    "name": "developer/digitalcep",
-    "description": "Busca de cep online",
+    "name": "johnkennedysantos/digitalcep",
+    "description": "Busca de CEP online",
     "type": "library",
     "license": "MIT",
     "autoload": {
         "psr-4": {
-            "Developer\\DigitalCep\\": "src/"
+            "JohnKennedySantos\\DigitalCep\\": "src/"
         }
     },
     "authors": [
@@ -17,5 +17,4 @@
     "require": {
         "php": ">=7.2.0"
     }
-    
 }
